@@ -1,2 +1,2 @@
 # TextWrite
-A simple text editor/word processor made with Python. Originally made in July 2024.
+A simple text editor/word processor made with Python. Originally made in March 2024.
